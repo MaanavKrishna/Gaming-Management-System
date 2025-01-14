@@ -31,6 +31,7 @@ Step 1: Clone the Repository
 
     git clone https://github.com/MaanavKrishna/gaming-management-system.git
 
+
     cd gaming-management-system
 
 Step 2: Install Dependencies
@@ -51,7 +52,7 @@ Step 4: Run the Application
 
 Run the script to start the system:
 
-python gms.py
+    python gms.py
 
 🚀 Usage
 	1.	Start the program and navigate the intuitive menu options:
