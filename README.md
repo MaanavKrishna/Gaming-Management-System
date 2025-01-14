@@ -69,12 +69,9 @@ python gms.py
 
 Active Subscribers Report
 
-+-------------------+-------------------+----------------------+-------------------+---------------------+
-| Subscriber Number | Subscriber Name  | Subscriber Email     | Subscriber Status | Newsletter Status   |
-+-------------------+-------------------+----------------------+-------------------+---------------------+
-| 101               | John Doe         | john.doe@example.com | Active            | Sent                |
-| 102               | Jane Smith       | jane.smith@example.com | Active           | Sent                |
-+-------------------+-------------------+----------------------+-------------------+---------------------+
+Subscriber Number	Subscriber Name	Subscriber Email	Subscriber Status	Newsletter Status
+101	John Doe	john.doe@example.com	Active	Sent
+102	Jane Smith	jane.smith@example.com	Active	Sent
 
 🤝 Contributions
 
