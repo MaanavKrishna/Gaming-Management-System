@@ -31,7 +31,7 @@ Step 1: Clone the Repository
 
     git clone https://github.com/MaanavKrishna/gaming-management-system.git
 
-
+Navigate into the project directory
 
     cd gaming-management-system
 
