@@ -29,9 +29,9 @@ Reporting
 
 Step 1: Clone the Repository
 
-    **git clone https://github.com/MaanavKrishna/gaming-management-system.git**
+    git clone https://github.com/MaanavKrishna/gaming-management-system.git
 
-    **cd gaming-management-system**
+    cd gaming-management-system
 
 Step 2: Install Dependencies
 
