@@ -29,21 +29,21 @@ Reporting
 
 Step 1: Clone the Repository
 
-**git clone https://github.com/MaanavKrishna/gaming-management-system.git**
+    **git clone https://github.com/MaanavKrishna/gaming-management-system.git**
 
-**cd gaming-management-system**
+    **cd gaming-management-system**
 
 Step 2: Install Dependencies
 
 Install the required Python libraries:
 
-pip install mysql-connector-python tabulate
+    pip install mysql-connector-python tabulate
 
 Step 3: Set Up the Database
+
 	1.	Open your MySQL client and create a new database:
 
 CREATE DATABASE GMS;
-
 
 	2.	Tables (game and subscriber) are automatically created when the program is run for the first time.
 
